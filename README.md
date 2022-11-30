@@ -1,12 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7b9acc&fontColor=FCF6F5&height=300&section=header&text=DongHo%20KiM&fontSize=90&desc=Backend%20Developer&descAlign=71&descAlignY=65"/>
 
-!! ⚠️ 2022-11-26 ~ 2022-11-28 <br>
 !! ⚠️ 현재 GIT Repository 정리중에 있습니다. <br>
 !! ⚠️ 그 동안 테스트 용 이나 공부를 위해 사용한 Repository를 제거 하고 <br>
 !! ⚠️ 기본 틀이 되는 Repository와 외부적으로 만든 프로젝트를 외부 공개용으로 전환 하여 다시 정리 할려고 합니다. <br>
-!! ⚠️ 이력서에 적힌 Git Hub주소를 보고 오셨으면 이력서에 적힌 만든 포트폴리오 홈페이지 Path를 확인 해 주시기 바랍니다. <br>
 !! ⚠️ 최대한 빨리 정리 하겠습니다. <br>
-!! ⚠️ 2022-11-26 ~ 2022-11-28 <br>
 
 📧 Contact Me
 
