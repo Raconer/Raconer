@@ -32,8 +32,8 @@ Back End
 
 <div align="left">
   <img src="https://img.shields.io/badge/Spring%20Boot%202.x-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white">(2순위)
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">(3순위)
 </div>
 
 Front End
