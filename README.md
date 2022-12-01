@@ -23,17 +23,17 @@ dhokim@kakao.com
 Lanuage
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <sup>1순위</sup>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <sup>2순위</sup>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <sup>3순위</sup>
 </div>
 
 Back End
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Spring%20Boot%202.x-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white">(2순위)
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">(3순위)
+  <img src="https://img.shields.io/badge/Spring%20Boot%202.x-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <sup>1순위</sup>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"> <sup>2순위</sup>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">  <sup>3순위</sup>
 </div>
 
 Front End
