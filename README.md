@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7b9acc&fontColor=FCF6F5&height=300&section=header&text=DongHo%20KiM&fontSize=90&desc=Backend%20Developer&descAlign=71&descAlignY=65"/>
 
-!! ⚠️ 현재 GIT Repository 정리중에 있습니다. <br>
-!! ⚠️ 그 동안 테스트 용 이나 공부를 위해 사용한 Repository를 제거 하고 <br>
-!! ⚠️ 기본 틀이 되는 Repository와 외부적으로 만든 프로젝트를 외부 공개용으로 전환 하여 다시 정리 할려고 합니다. <br>
+!! ⚠️ 현재 GIT Repository 정리중에 있습니다. ⚠️ <br>
+!! 그 동안 테스트 용 이나 공부를 위해 사용한 Repository를 제거 하고 <br>
+!! 기본 틀이 되는 Repository와 외부적으로 만든 프로젝트를 외부 공개용으로 전환 하여 다시 정리 할려고 합니다.
 
 📧 Contact Me
 
