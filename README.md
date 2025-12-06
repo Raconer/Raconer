@@ -1,21 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7b9acc&fontColor=FCF6F5&height=300&section=header&text=DongHo%20KiM&fontSize=90&desc=Backend%20Developer&descAlign=71&descAlignY=65"/>
-
-## ⚠️ Repository 정리 중입니다
-현재 사용하던 테스트/학습용 Repository를 정리하고 있으며,  
-기본 구조가 되는 템플릿과 외부 공개 가능한 프로젝트 중심으로 재구성하고 있습니다.  
-Java와 Kotlin 기반 Spring Boot 프로젝트들을 **모듈 단위로 구성하여 실험하는 구조**로 업데이트 중입니다.
-
----
-
-## 📧 Contact  
-**dhokim@kakao.com**
-
----
-
-## 📝 Blog  
-<a href="https://donghokim.tistory.com/">
- <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b9acc&fontColor=FCF6F5&height=300&section=header&text=Raconer&fontSize=90&desc=Backend%20Developer&descAlign=71&descAlignY=65"/>
 
 ---
 
